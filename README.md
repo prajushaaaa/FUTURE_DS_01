@@ -1,4 +1,4 @@
-# 📊 Business Sales Performance Analytics
+# Business Sales Performance Analytics
 
 ## Project Overview
 This project analyzes sales data to identify revenue trends, category performance, regional performance, and top-selling products.
